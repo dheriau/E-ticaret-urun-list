@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Ayakkabı",
+        "price": 499.99,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/03e79eb6-da2b-4e52-af1a-2499caf49dc9/NIKE+REVOLUTION+7.png"
+    },
+    {
+        "id": 2,
+        "name": "Adidas Spor Çanta",
+        "price": 299.99,
+        "image": "https://akn-occ.a-cdn.akinoncloud.com/products/2024/05/24/11362661/a266457b-8964-48f9-a9d5-68cd510e5352_size780x780_quality100_cropCenter.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Apple AirPods",
+        "price": 2499.99,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409?wid=976&hei=916&fmt=jpeg&qlt=90&.v=1724041669458"
+    }
+]

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Ticaret Ürün Listesi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🛍️ E-Ticaret Ürün Listesi</h1>
+        <div class="cart">
+            🛒 Sepet: <span id="cart-count">0</span>
+        </div>
+    </header>
+
+    <main>
+        <div class="product-list" id="product-list"></div>
+    </main>
+
+    <div class="cart-modal">
+        <h2>🛒 Sepetiniz</h2>
+        <ul id="cart-items"></ul>
+        <p>Toplam: <span id="total-price">0</span> TL</p>
+        <button onclick="clearCart()">Sepeti Temizle</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
